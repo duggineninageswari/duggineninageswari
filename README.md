@@ -44,8 +44,11 @@ I'm an AI & ML student with an interest in web development and Artificial Intell
 
 - LinkedIn: coming soon
 - 
+
 ## 💡 Quote
 
+
 "Keep learning. Keep building. Keep growing."
+
 
 ⭐ Thanks for visiting my GitHub profile!
