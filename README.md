@@ -1,41 +1,51 @@
 # 👋 Hi, I'm Nageswari
 
-## 🎓 AI & ML Student
+## 🎓 Aspiring AI & Machine Learning Engineer
 
-I'm passionate about Artificial Intelligence and Machine Learning. I enjoy learning new technologies and building intelligent solutions to solve real-world problems.
-
+I'm an AI & ML student with an interest in web development and Artificial Intelligence. I'm currently learning HTML, CSS, JavaScript, Machine Learning and Generative AI while building practical projects.
 ---
 
 ## 💻 Skills
 
-- Python
-- Machine Learning
-- Deep Learning
-- Git & GitHub
-
----
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+---  
 
 ## 🌱 Currently Learning
 
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
 - Generative AI
-- Large Language Models (LLMs)
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-
----
+- Git & GitHub
+--- 
 
 ## 🚀 Projects
 
-- House Price Prediction
-- Student Performance Prediction
-- AI Chatbot
-- Power BI Dashboard
+- Frontend Project
+- Portfolio Website (Coming Soon)
+- AI & ML Projects (Coming Soon)
 
 ---
 
+## 🎯 Goals
+
+- Build real-world AI & ML projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Become an AI & Machine Learning Engineer
+--- 
+
 ## 📫 Connect with Me
 
-- LinkedIn: (Add your LinkedIn profile link here)
-- Email: (Add your email here)
+- LinkedIn: coming soon
+- 
+## 💡 Quote
+
+"Keep learning. Keep building. Keep growing."
 
 ⭐ Thanks for visiting my GitHub profile!
