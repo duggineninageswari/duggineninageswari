@@ -2,7 +2,12 @@
 
 ## 🎓 Aspiring AI & Machine Learning Engineer
 
-I'm an AI & ML student with an interest in web development and Artificial Intelligence. I'm currently learning HTML, CSS, JavaScript, Machine Learning and Generative AI while building practical projects.
+- 🎓 AI & Machine Learning Student
+- 🌱 Currently learning HTML, CSS, JavaScript, Machine Learning & Generative AI
+- 💻 Interested in Web Development and Artificial Intelligence
+- 🚀 Building real-world projects to improve my skills
+- 🎯 Goal: Become an AI & Machine Learning Engineer
+
 ---
 
 ## 💻 Skills
