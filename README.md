@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Nageswari
 
-<!--
-**duggineninageswari/duggineninageswari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 AI & ML Student
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence and Machine Learning. I enjoy learning new technologies and building intelligent solutions to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models (LLMs)
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+## 🚀 Projects
+
+- House Price Prediction
+- Student Performance Prediction
+- AI Chatbot
+- Power BI Dashboard
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn profile link here)
+- Email: (Add your email here)
+
+⭐ Thanks for visiting my GitHub profile!
